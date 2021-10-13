@@ -7,7 +7,8 @@ from TwitchRecoder.core.worker import Worker
 from TwitchRecoder.common.logger import Logger as Log
 from TwitchRecoder.common.logger import LoggerLevel
 from TwitchRecoder.core.constants import MinimalPython, Constants
-
+ 
+ 
 TAG = "app"
 
 class TwitchRecorder:
