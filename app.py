@@ -1,5 +1,4 @@
 from multiprocessing import freeze_support # 윈도우에서 멀티프로세스 쓸 때
-
 import sys
 import os
 from TwitchRecoder.common.architecture import Architecture,OSType
