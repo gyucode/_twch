@@ -1,0 +1,64 @@
+2021-10-12 21:09:21,929,INFO,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-12 21:09:21,929,INFO,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:21,929,INFO,[Logger] Python version: 3.9.6
+2021-10-12 21:09:21,929,INFO,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:21,929,INFO,[app] Application started
+2021-10-12 21:09:21,930,DEBUG,[app] Application started
+2021-10-12 21:09:21,933,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:09:22,116,DEBUG,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
+2021-10-12 21:09:22,131,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:09:22,311,DEBUG,https://api.twitch.tv:443 "GET /kraken/streams/190835892 HTTP/1.1" 200 877
+2021-10-12 21:09:26,497,INFO,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-12 21:09:26,497,INFO,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:26,499,INFO,[Logger] Python version: 3.9.6
+2021-10-12 21:09:26,499,INFO,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:26,499,INFO,[app] Application started
+2021-10-12 21:09:26,499,DEBUG,[app] Application started
+2021-10-12 21:09:26,503,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:09:26,676,DEBUG,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
+2021-10-12 21:09:26,681,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:09:26,861,DEBUG,https://api.twitch.tv:443 "GET /kraken/streams/190835892 HTTP/1.1" 200 877
+2021-10-12 21:09:59,932,INFO,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-12 21:09:59,932,INFO,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:59,933,INFO,[Logger] Python version: 3.9.6
+2021-10-12 21:09:59,933,INFO,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:09:59,934,INFO,[app] Application started
+2021-10-12 21:09:59,934,DEBUG,[app] Application started
+2021-10-12 21:09:59,939,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:10:00,122,DEBUG,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
+2021-10-12 21:10:00,127,DEBUG,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:10:00,335,DEBUG,https://api.twitch.tv:443 "GET /kraken/streams/190835892 HTTP/1.1" 200 877
+2021-10-12 21:10:00,338,INFO,[Worker] https://vod-secure.twitch.tv/8ed86bb20949caaad377_lck_korea_190835892_1515980409/chunked/index-dvr.m3u8
+2021-10-12 21:11:48,222,info,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-12 21:11:48,223,info,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:11:48,223,info,[Logger] Python version: 3.9.6
+2021-10-12 21:11:48,224,info,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:11:48,224,info,[app] Application started
+2021-10-12 21:11:48,224,debug,[app] Application started
+2021-10-12 21:11:48,228,debug,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:11:48,402,debug,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
+2021-10-12 21:11:48,406,debug,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:11:48,597,debug,https://api.twitch.tv:443 "GET /kraken/streams/190835892 HTTP/1.1" 200 877
+2021-10-12 21:11:48,600,info,[Worker] https://vod-secure.twitch.tv/8ed86bb20949caaad377_lck_korea_190835892_1515980409/chunked/index-dvr.m3u8
+2021-10-12 21:11:48,845,debug,Starting new HTTPS connection (1): gql.twitch.tv:443
+2021-10-12 21:11:49,088,debug,https://gql.twitch.tv:443 "POST /gql HTTP/1.1" 200 139
+2021-10-12 21:11:49,282,debug,https://gql.twitch.tv:443 "POST /gql HTTP/1.1" 200 169
+2021-10-12 21:37:16,784,info,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-12 21:37:16,786,info,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:37:16,786,info,[Logger] Python version: 3.9.6
+2021-10-12 21:37:16,787,info,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-12 21:37:16,788,info,[app] Application started
+2021-10-12 21:37:16,788,debug,[app] Application started
+2021-10-12 21:37:16,792,debug,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:37:16,976,debug,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
+2021-10-12 21:37:16,981,debug,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-12 21:37:17,163,debug,https://api.twitch.tv:443 "GET /kraken/streams/190835892 HTTP/1.1" 200 877
+2021-10-12 21:37:17,167,info,[Worker] https://vod-secure.twitch.tv/8ed86bb20949caaad377_lck_korea_190835892_1515980409/chunked/index-dvr.m3u8
+2021-10-13 15:43:46,670,info,[Logger] Platform: Windows-10-10.0.19043-SP0
+2021-10-13 15:43:46,671,info,[Logger] Path: C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-13 15:43:46,671,info,[Logger] Python version: 3.9.6
+2021-10-13 15:43:46,672,info,[app] Path:C:\work\pscode_jinhwanJeon\Twitch_20211012
+2021-10-13 15:43:46,672,info,[app] Application started
+2021-10-13 15:43:46,673,debug,[app] Application started
+2021-10-13 15:43:46,675,debug,Starting new HTTPS connection (1): api.twitch.tv:443
+2021-10-13 15:43:46,853,debug,https://api.twitch.tv:443 "GET /kraken/users?login=lck_korea HTTP/1.1" 200 426
